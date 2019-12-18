@@ -8,3 +8,4 @@ What specfic Hackerrank problem each of these files refer to:
 3. Perfect Soldier --> https://imgur.com/a/XSSc9rl
 4. Cave Escape --> https://imgur.com/aSTUzZa
 5. Sequence Alignment --> https://imgur.com/a/ABKmGLp
+6. Scent Mixture --> https://imgur.com/a/G0HEfNu
