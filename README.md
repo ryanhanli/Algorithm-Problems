@@ -1,5 +1,5 @@
 # Algorithm-Problems
-Data Structures and Algorithms used on Hackerrank Problems
+Data Structures and Algorithms used on Hackerrank and Leetcode Problems
 
 What specfic Hackerrank problem each of these files refer to:
 
@@ -9,3 +9,5 @@ What specfic Hackerrank problem each of these files refer to:
 4. Cave Escape --> https://imgur.com/aSTUzZa
 5. Sequence Alignment --> https://imgur.com/a/ABKmGLp
 6. Scent Mixture --> https://imgur.com/a/G0HEfNu
+
+The names of the Leetcode problems are in the file name.
